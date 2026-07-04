@@ -1,0 +1,982 @@
+symbol,name,asset_id
+NVDA,Nvidia Corp,10058
+AAPL,Apple Inc,10003
+GOOG,Google Inc,10006
+GOOGL,Alphabet Inc Class A,10787
+MSFT,Microsoft,10004
+AMZN,Amazon.com Inc,10002
+SPCX,SpaceX,11239
+TSM,Taiwan Semiconductor Mfg. Co. Ltd.,10142
+AVGO,Broadcom Inc,10379
+META,Meta Platforms Inc,10005
+TSLA,"Tesla, Inc.",10066
+MU,"Micron Technology, Inc.",10119
+LLY,Eli Lilly And Co,10312
+JPM,JPMorgan Chase &Co,10007
+WMT,Walmart Stores Inc,10020
+AMD,Advanced Micro Devices,10046
+ASML,ASML Holding NV,10529
+V,Visa Inc,10011
+JNJ,Johnson & Johnson,10008
+INTC,Intel Corp,10014
+XOM,Exxon Mobil Corporation,10068
+LRCX,Lam Research Corporation,10449
+AMAT,"Applied Materials, Inc.",10172
+MA,MasterCard Inc,10013
+ABBV,AbbVie Inc,10207
+CSCO,Cisco Systems Inc,10021
+CAT,Caterpillar Inc,10038
+BAC,Bank of America Corp,10023
+COST,Costco Wholesale Corporation,10381
+ORCL,Oracle Corporation,10187
+GE,GE Aerospace,10040
+UNH,UnitedHealth Group Inc,10368
+KO,The Coca-Cola Co K,10016
+HD,Home Depot Inc,10271
+PG,Procter & Gamble Co,10018
+KLAC,KLA Corp.,10436
+CVX,Chevron Corp,10015
+ARM,Arm Holdings plc,10971
+MS,Morgan Stanley,10171
+NFLX,NetFlix Inc,10055
+HSBC,HSBC Holdings plc,10980
+PLTR,Palantir Technologies Inc,10092
+MRK,"Merck & Co., Inc.",10160
+NVS,Novartis AG,10364
+GS,Goldman Sachs Group Inc,10032
+GEV,GE Vernova Inc,11000
+AZN,AstraZeneca plc,10177
+PANW,Palo Alto Networks Inc,10240
+RY,Royal Bank of Canada,10577
+DELL,Dell Technologies Inc,10275
+PM,Philip Morris International Inc.,10263
+IBM,International Business Machines Corp,10033
+TXN,Texas Instruments Incorporated,10211
+WFC,Wells Fargo & Co,10121
+RTX,Raytheon Technologies Corp,10225
+AXP,American Express Co,10035
+C,Citigroup Inc.,10048
+LIN,Linde PLC,10411
+BABA,Alibaba Group,10000
+NVO,Novo Nordisk A/S,10392
+MRVL,Marvell Technology Inc,10147
+STX,Seagate Technology Holdings PLC,10382
+SHEL,Shell PLC,10214
+ANET,Arista Networks Inc,10399
+BHP,BHP Billiton Limited,10036
+TM,Toyota Motor Corp,10640
+AMGN,"Amgen, Inc.",10317
+SAN,Banco Santander SA,10208
+TD,Toronto-Dominion Bank,10404
+MCD,McDonald's Corp,10019
+CRWD,Crowdstrike Holdings Inc,10261
+PEP,"PepsiCo, Inc.",10232
+SAP,SAP SE,10523
+TMUS,T-Mobile Us Inc,10257
+WDC,Western Digital Corp,10277
+QCOM,"QUALCOMM, Inc.",10170
+NEE,"NextEra Energy, Inc.",10173
+ADI,"Analog Devices, Inc.",10274
+VZ,Verizon Communications Inc,10028
+APP,Applovin Corporation,10951
+BA,Boeing Co,10024
+TTE,TotalEnergies SE,10335
+GLW,Corning Incorporated,10227
+DE,Deere & Company,10420
+TJX,TJX Companies Inc,10206
+SCHW,Charles Schwab Corporation Common Stock,10192
+DIS,Walt Disney Co,10012
+ABT,Abbott Laboratories,10228
+UNP,Union Pacific Corporation,10333
+GILD,"Gilead Sciences, Inc.",10179
+ETN,Eaton Corporation plc,11014
+SHOP,Shopify Inc.,10062
+BUD,Anheuser-Busch Inbev SA,10455
+BLK,Blackrock Inc,10031
+UBER,Uber Technologies Inc,10096
+ISRG,"Intuitive Surgical, Inc.",10401
+T,AT&T Inc.,10065
+BBVA,Banco Bilbao Vizcaya Argentaria SA,10343
+BKNG,Booking Holdings Inc,10619
+BX,Blackstone Inc,10267
+SCCO,Southern Copper Corp,10452
+PFE,Pfizer Inc,10025
+DHR,Danaher Corporation,10384
+CRM,Salesforce Inc,10183
+PLD,Prologis Inc,10288
+CVS,CVS Health Corp,10216
+UL,Unilever plc,10357
+SPGI,S&P Global Inc,10414
+CB,Chubb Ltd,10458
+LMT,Lockheed Martin Corporation,10506
+COP,ConocoPhillips,10180
+COF,Capital One Financial Corp.,10361
+LOW,Lowe`s Companies Inc,10259
+MO,Altria Group Inc,10175
+BTI,British American Tobacco PLC,10353
+SONY,Sony Group Corp,10589
+VRT,Vertiv Holdings Co,10945
+PGR,Progressive Corp,10370
+SBUX,Starbucks Corp,10029
+BMY,Bristol-Myers Squibb Co,10154
+ENB,Enbridge Inc,10299
+SYK,Stryker Corporation,11084
+FTNT,Fortinet Inc,10201
+BMO,Bank of Montreal,10575
+VRTX,Vertex Pharmaceuticals Incorporated,10467
+EQIX,Equinix Inc,10618
+NOW,ServiceNow Inc,10454
+HWM,Howmet Aerospace Inc,11037
+MDT,Medtronic PLC,10210
+GSK,GSK plc,10162
+CDNS,Cadence Design Systems Inc,10408
+PWR,Quanta Services Inc,10499
+NEM,Newmont Corporation,10146
+SNY,Sanofi SA,10291
+SPOT,Spotify Technology,10064
+BNS,Bank of Nova Scotia,10479
+PBR,Petróleo Brasileiro SA,10918
+CNQ,Canadian Natural Resources Ltd.,10313
+HOOD,"Robinhood Markets, Inc.",10053
+BNY,Bank of New York Mellon Corp,10286
+MAR,Marriott International Inc,10041
+ADP,Automatic Data Processing Inc,10425
+DUK,Duke Energy Corp,10355
+USB,US Bancorp,10185
+SNPS,"Synopsys, Inc.",10501
+DDOG,Datadog Inc,10248
+GD,General Dynamics Corporation,10514
+UPS,United Parcel Service Inc,10027
+MCK,McKesson Corporation,10515
+BCS,Barclays PLC,10184
+SNOW,Snowflake Inc,10167
+ING,ING Groep NV,10213
+WM,"Waste Management, Inc.",10421
+JCI,Johnson Controls International PLC,10260
+MELI,Mercadolibre Inc,10593
+CSX,CSX Corporation,10126
+WMB,Williams Companies Inc,10178
+CMCSA,Comcast Corporation,10105
+FCX,Freeport-McMoRan Inc,10112
+MNST,Monster Beverage Corp,10345
+ABNB,"Airbnb, Inc.",10044
+NET,Cloudflare Inc,10245
+ADBE,Adobe Systems Inc,10030
+CEG,Constellation Energy Corporation,10967
+MMM,3M Company,10042
+EMR,Emerson Electric Co.,10316
+NTES,NetEase Inc,10450
+ASX,ASE Technology Holding Co Ltd,10182
+KKR,KKR & Co Inc,10319
+MPWR,Monolithic Power Systems Inc,11133
+HCA,HCA Health Inc,10480
+MRSH,"Marsh & McLennan Companies, Inc.",10453
+MCO,Moody's Corporation,10594
+EQNR,Equinor ASA,10279
+AMT,American Tower Corp,10434
+MDLZ,MONDELEZ INTERNATIONAL INC Common Stock,10186
+VLO,Valero Energy Corporation,10255
+AEM,Agnico Eagle Mines Ltd,10302
+ACN,Accenture plc,10034
+CL,Colgate-Palmolive Company,10250
+HLT,Hilton Hotels Corporation Common Stock,10417
+RCL,Royal Caribbean Cruises Ltd,10166
+AEP,American Electric Power Company Inc,10352
+DASH,DoorDash Inc,10200
+FDX,FedEx Corporation,10290
+CI,Cigna Corp,10386
+SPG,Simon Property Group Inc,10406
+INTU,Intuit Inc.,10418
+NOC,Northrop Grumman Corporation,10578
+CNI,Canadian National Railway Co.,10504
+NOK,Nokia Corp,10099
+ITW,Illinois Tool Works Inc.,10502
+ECL,Ecolab Inc.,10520
+MPC,Marathon Petroleum Corp,10221
+HON,Honeywell International Inc,10328
+MSI,Motorola Solutions Inc,10043
+KMI,Kinder Morgan Inc,10120
+PSX,Phillips 66,10280
+GM,General Motors Company,10123
+EOG,EOG Resources Inc,10265
+STM,STMicroelectronics NV,10276
+NSC,Norfolk Southern Corporation,11047
+AON,Aon PLC,10569
+CTAS,Cintas Corporation,10624
+APO,Apollo Global Management Ord Shs,10332
+ROST,"Ross Stores, Inc.",10322
+E,Eni SpA,10601
+MFC,Manulife Financial Corporation,10314
+SLB,Schlumberger NV,10135
+FIX,Comfort Systems USA Inc,11124
+TER,"Teradyne, Inc.",10402
+RACE,Ferrari NV,10632
+NU,Nu Holdings Ltd,10095
+NKE,Nike Inc,10017
+REGN,Regeneron Pharmaceuticals Inc,10585
+VALE,Vale SA,10098
+DLR,"Digital Realty Trust, Inc.",10429
+SU,Suncor Energy Inc.,10204
+BSX,Boston Scientific Corporation,10197
+APD,"Air Products & Chemicals, Inc.",10546
+SE,Sea Limited,10061
+RKLB,Rocket Lab USA Inc,10926
+B,Barrick Gold Corp,10103
+ALL,Allstate Corp,10415
+DAL,"Delta Air Lines, Inc.",10158
+D,Dominion Energy Inc,10285
+GWW,W W Grainger Inc,11170
+DB,Deutsche Bank AG,10231
+TGT,Target Corporation,10251
+HPE,Hewlett Packard Enterprise Co,10134
+AFL,AFLAC Incorporated,10326
+PSA,Public Storage,10572
+MPLX,MPLX LP,11029
+KEYS,Keysight Technologies Inc,10536
+O,Realty Income Corp,10237
+BKR,Baker Hughes Co,10155
+CAH,Cardinal Health Inc,10301
+VST,Vistra Corp,10965
+NBIS,Nebius Group NV,10940
+LHX,L3Harris Technologies Inc,10516
+F,Ford Motor Company,10050
+AZO,Autozone Inc,10644
+AME,"AMETEK, Inc.",10518
+EA,Electronic Arts Inc.,10378
+ROK,Rockwell Automation,10570
+WPM,Wheaton Precious Metals Corp,10310
+EBAY,eBay Inc,10022
+NUE,Nucor Corporation,10388
+UMC,United Microelectronics Corp,10164
+CLS,Celestica Inc,11012
+XEL,Xcel Energy Inc,10363
+FANG,Diamondback Energy Inc,10347
+MCHP,Microchip Technology Inc.,10218
+AXON,Axon Enterprise Inc,10964
+OXY,Occidental Petroleum Corporation,10102
+MT,ArcelorMittal SA,10324
+NDAQ,Nasdaq Inc,10376
+TTWO,"TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock",10394
+DVN,Devon Energy Corp,10133
+CVE,Cenovus Energy Inc,10152
+XYZ,Block Inc,10122
+GRMN,Garmin Ltd.,10521
+ODFL,Old Dominion Freight Line Inc,10557
+DEO,Diageo plc,10927
+CRDO,Credo Technology Group Holding Ltd,10955
+MSCI,Msci Inc,10625
+CMG,"Chipotle Mexican Grill, Inc.",10639
+INFY,Infosys Limited,10909
+CVNA,Carvana Co,10144
+IDXX,"IDEXX Laboratories, Inc.",10600
+DHI,D R Horton Inc,10330
+UAL,United Airlines Holdings Inc,10161
+YUM,"Yum! Brands, Inc.",10405
+COIN,"Coinbase Global, Inc.",10049
+BDX,Becton Dickinson and Co,10533
+AIG,American International Group Inc,10253
+HUM,Humana Inc,10582
+ADSK,Autodesk Inc,10461
+AU,AngloGold Ashanti Limited,10309
+ALNY,"Alnylam Pharmaceuticals, Inc.",10496
+PYPL,"PayPal Holdings, Inc.",10059
+SYY,SYSCO Corporation,10362
+ED,"Consolidated Edison, Inc.",10457
+CCL,Carnival Corp,10091
+A,Agilent Technologies Inc,10426
+TRI,Thomson Reuters Corp,10604
+RBLX,Roblox Corp,10110
+IRM,Iron Mountain Inc,10412
+BIDU,Baidu Inc,10037
+KMB,Kimberly Clark Corp,10469
+KB,"KB Financial Group, Inc.",10630
+LYV,"Live Nation Entertainment, Inc.",10477
+PRU,Prudential Financial Inc,10413
+ADM,Archer-Daniels-Midland Co,10323
+HBAN,Huntington Bancshares Incorporated,10137
+HSY,Hershey Co,10561
+MSTR,Strategy Inc.,10599
+JD,JD.Com Inc,10165
+JBL,Jabil Inc,11055
+PAYX,"Paychex, Inc.",10432
+KR,Kroger Co,10215
+TWLO,Twilio Inc,10246
+MTB,M&T Bank Corporation,10537
+NTAP,NetApp Inc.,10482
+RDDT,Reddit Inc,10978
+CCI,Crown Castle International Corp,10473
+PUK,Prudential PLC,10534
+ALC,Alcon AG,10554
+RYAAY,Ryanair Holdings plc,10617
+WDAY,Workday Inc,10282
+BIIB,Biogen Inc,10566
+EXPE,Expedia Group Inc,10344
+MRNA,"Moderna, Inc.",10054
+GFI,Gold Fields Limited,10181
+CNC,Centene Corp,10283
+MTZ,MasTec Inc,11067
+EXR,"Extra Space Storage, Inc.",10579
+LVS,Las Vegas Sands Corp.,10226
+ZTS,Zoetis Inc,10422
+NTR,Nutrien Ltd,10351
+DOV,Dover Corp,10532
+EC,Ecopetrol SA,10492
+CINF,Cincinnati Financial Corporation,10555
+KHC,Kraft Heinz Co,10174
+TPR,"Tapestry, Inc.",10272
+RJF,"Raymond James Financial, Inc.",10560
+EL,Estee Lauder Companies Inc,10474
+VICI,VICI Properties Inc,10970
+RMD,ResMed Inc.,10611
+HAL,Halliburton Company,10151
+ATO,Atmos Energy Corporation,10545
+KGC,Kinross Gold Corporation,10113
+MDB,Mongodb Inc,10390
+NRG,NRG Energy Inc,10346
+OTIS,Otis Worldwide Corp,10377
+XYL,"Xylem, Inc.",10525
+DXCM,"DexCom, Inc.",10342
+WSM,"Williams-Sonoma, Inc.",10481
+CPNG,Coupang Inc,10194
+JBHT,J B Hunt Transport Services Inc,10573
+ILMN,"Illumina, Inc.",10409
+ZM,"Zoom Video Communications, Inc.",10069
+FE,FirstEnergy Corp.,10268
+PHG,Koninklijke Philips NV,10338
+NMR,Nomura Holdings Inc,10439
+PHM,"PulteGroup, Inc.",10372
+PPG,"PPG Industries, Inc.",10507
+AWK,American Water Works Company Inc,10581
+FTAI,FTAI Aviation Ltd,11019
+ASTS,AST SpaceMobile Inc,10374
+TEAM,Atlassian Corporation PLC,10442
+TCOM,Trip.com Group Ltd,10270
+RIVN,"Rivian Automotive, Inc.",10060
+TROW,T Rowe Price Group Inc,10428
+RL,Ralph Lauren Corp,10512
+KEY,KeyCorp,10156
+FSLR,"First Solar, Inc.",10295
+ZS,Zscaler Inc,10340
+SYF,Synchrony Financial,10974
+SOFI,SoFi Technologies Inc,10094
+INCY,Incyte Corporation,10495
+DG,Dollar General Corp.,10416
+VRSN,"Verisign, Inc.",10586
+CHRW,"C.H. Robinson Worldwide, Inc.",10471
+CHD,"Church & Dwight Co., Inc.",10410
+BNTX,BioNTech SE - ADR,10548
+FFIV,F5 Inc,10614
+AFRM,Affirm Holdings Inc,10125
+DGX,Quest Diagnostics Inc,10564
+OMC,Omnicom Group Inc.,10488
+FOX,Fox Corp Class B,10487
+FOXA,Fox Corp Class A,10786
+ENTG,Entegris Inc,10476
+LEN,Lennar Corporation,10318
+EXPD,Expeditors International of Wshngtn Inc,10485
+FIS,Fidelity National Information Servcs Inc,10235
+DLTR,"Dollar Tree, Inc.",10287
+LYB,LyondellBasell Industries NV,10365
+SNA,Snap On Incorporated,11147
+OKTA,"Okta, Inc.",10224
+DKS,Dicks Sporting Goods Inc,11095
+GPN,Global Payments Inc,10380
+BURL,Burlington Stores Inc,11119
+ULTA,Ulta Beauty Inc,10519
+LUV,Southwest Airlines Co,10209
+HPQ,HP Inc,10140
+GIS,"General Mills, Inc.",10269
+PKG,Packaging Corporation of America,11079
+CTSH,Cognizant Technology Solutions Corp,10305
+LNT,Alliant Energy Corporation,10468
+AS,Amer Sports Inc,10943
+TSN,"Tyson Foods, Inc.",10373
+DOW,Dow Inc,10203
+IONQ,IONQ Inc,10908
+VTRS,Viatris Inc,10141
+DD,DuPont de Nemours Inc,10315
+AMCR,Amcor PLC,10148
+IOT,Samsara Inc,10962
+ESS,"Essex Property Trust, Inc.",10620
+H,Hyatt Hotels Corporation,10574
+WIT,Wipro Limited,10358
+SITM,SiTime Corporation,11153
+FN,Fabrinet,11068
+SMCI,Super Micro Computer Inc,10906
+ASND,Ascendis Pharma A/S,10608
+NBIX,Neurocrine Biosciences Inc,11080
+CF,"CF Industries Holdings, Inc.",10325
+CDW,CDW Corp.,10552
+BIP,Brookfield Infrastructure Partners LP,11112
+ZBH,Zimmer Biomet Holdings Inc,10526
+BEN,"Franklin Resources, Inc.",10321
+NLY,"Annaly Capital Management, Inc.",10097
+BEKE,KE Holdings Inc,10947
+AKAM,"Akamai Technologies, Inc.",10466
+ALB,Albemarle Corp.,10463
+BBY,Best Buy Co Inc,10298
+CHTR,Charter Communications Inc,10472
+DECK,Deckers Outdoor Corp,10626
+TSCO,Tractor Supply Co,10510
+GRAB,Grab Holdings Ltd.,10052
+MEDP,Medpace Holdings Inc,11120
+BBIO,BridgeBio Pharma Inc,10360
+TKO,TKO Group Holdings Inc,11063
+DOCN,DigitalOcean Holdings Inc,10460
+TME,Tencent Music Entertainment Group - ADR,10145
+CG,Carlyle Group Inc,10311
+SWK,"Stanley Black & Decker, Inc.",10393
+MOD,Modine Manufacturing Company,11064
+JLL,Jones Lang LaSalle Inc,10635
+YUMC,Yum China Holdings Inc,10336
+WMG,Warner Music Group Corp,10509
+ALLY,Ally Financial Inc,10256
+THC,Tenet Healthcare Corporation,11086
+IREN,Iris Energy Limited,10901
+NTNX,Nutanix Inc,10950
+MKC,"McCormick & Company, Incorporated",10489
+CHKP,Check Point Software Technologies Ltd,10992
+LOGI,Logitech International SA,10591
+GPC,Genuine Parts Company,10528
+ARCC,Ares Capital Corporation,10349
+HRL,Hormel Foods Corp,10431
+FUTU,Futu Holdings Ltd,10307
+HUT,Hut 8 Corp,10946
+APTV,Aptiv PLC,10400
+AEG,Aegon Ltd.,10341
+U,Unity Software Inc,10157
+LULU,Lululemon Athletica Inc,10433
+SNN,Smith & Nephew plc,10456
+XPEV,Xpeng Inc - ADR,10127
+AGNC,AGNC Investment Corp,10168
+ALGN,"Align Technology, Inc.",10568
+IVZ,Invesco Ltd.,10233
+NIO,NIO Inc.,10056
+DKNG,DraftKings Inc,10106
+SJM,J M Smucker Co,10558
+ONON,ON Holding AG,10984
+DVA,Davita Inc,10563
+MGM,MGM Resorts International,10220
+PINS,Pinterest Inc,10115
+AAL,American Airlines Group Inc,10100
+SMMT,Summit Therapeutics Inc,11053
+LI,Li Auto Inc,10159
+CLX,Clorox Co,10543
+AMH,American Homes 4 Rent Class A,10387
+HII,Huntington Ingalls Industries Inc,11111
+WULF,TeraWulf Inc,10899
+AFG,American Financial Group Inc,10627
+CYTK,Cytokinetics Inc,10969
+RVTY,Revvity Inc,11093
+HAS,"Hasbro, Inc.",10527
+NYT,New York Times Co,10445
+GDDY,Godaddy Inc,10535
+ALLE,Allegion PLC,10580
+IT,Gartner Inc,10607
+TECH,BIO-TECHNE Corp,10642
+CRL,Charles River Laboratories Intl. Inc,10597
+SWKS,Skyworks Solutions Inc,10403
+WYNN,"Wynn Resorts, Limited",10339
+AES,AES Corp,10212
+APLD,Applied Digital Corporation,10917
+DPZ,"Domino's Pizza, Inc.",10587
+FIVE,Five Below Inc,10517
+WMS,Advanced Drainage Systems Inc,10567
+GTLS,Chart Industries Inc,11051
+BAX,Baxter International Inc,10294
+HMY,Harmony Gold Mining Co.,10190
+SIRI,Sirius XM Holdings Inc,10118
+GME,GameStop Corp.,10051
+NUVL,Nuvalent Inc,11145
+LEVI,Levi Strauss & Co.,10430
+ARE,Alexandria Real Estate Equities Inc,10550
+OKLO,Oklo Inc,10954
+CUBE,CubeSmart,10500
+OSCR,Oscar Health Inc,10960
+W,Wayfair Inc,10983
+TTD,Trade Desk Inc,10241
+ACM,Aecom,10602
+MANH,Manhattan Associates Inc,11131
+CORZ,Core Scientific Inc,10944
+MTCH,Match Group Inc,10293
+HUBS,HubSpot Inc,10592
+WAL,Western Alliance Bancorporation,11075
+ACMR,ACM Research Inc,11042
+QBTS,D Wave Quantum Inc,10910
+AGCO,AGCO Corporation,10603
+NCLH,Norwegian Cruise Line Holdings Ltd,10108
+DOCU,Docusign Inc,10238
+HIMS,Hims and Hers Health Inc,10900
+CNM,Core and Main Inc,11039
+CELH,"Celsius Holdings, Inc.",10391
+CAVA,CAVA Group Inc,10916
+TGTX,TG Therapeutics Inc,11033
+RIOT,Riot Platforms Inc,10921
+LUMN,Lumen Technologies Inc,10138
+CIFR,Cipher Mining Inc,10904
+SNAP,Snap Inc,10093
+AOS,A O Smith Corp,10539
+ICL,Icl Group Ltd,10505
+BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",10645
+GAP,Gap Inc,10163
+ZG,Zillow Group Inc Class A,10571
+Z,Zillow Group Inc Class C,10791
+NE,Noble Corporation plc,11057
+CHWY,Chewy Inc,10222
+KMX,"CarMax, Inc",10486
+BAH,Booz Allen Hamilton Holding Corporation,10562
+BILI,Bilibili Inc,11054
+CPB,Campbell Soup Co.,10334
+RIG,Transocean Ltd,10911
+BB,BlackBerry Limited,10047
+ACI,Albertsons Companies Inc,10320
+VIPS,Vipshop Holdings Ltd - ADR,10199
+MBLY,MobilEye Global Inc,10959
+VFC,VF Corp,10304
+ETSY,Etsy Inc,10296
+M,Macy's Inc,10130
+DBX,Dropbox Inc,10359
+SBSW,Sibanye Stillwater Ltd,10281
+ACT,Enact Holdings Inc,11176
+VSXY,Victoria's Secret & Co,10462
+CAG,Conagra Brands Inc,10308
+PAYC,Paycom Software Inc,10615
+FLG,Flagstar Bank NA,10991
+CVLT,Commvault Systems Inc,11058
+RGTI,Rigetti Computing Inc,10905
+TWST,Twist Bioscience Corp,10549
+ENPH,Enphase Energy Inc,10262
+CROX,"Crocs, Inc.",10444
+LW,Lamb Weston Holdings Inc,10470
+ESTC,Elastic NV,11026
+CZR,Caesars Entertainment Inc,10303
+PATH,UiPath Inc,10189
+GLBE,Global E Online Ltd,11073
+LYFT,LYFT Inc,10117
+MATX,Matson Inc,11117
+GXO,GXO Logistics Inc,11091
+NICE,NICE Ltd,11065
+DUOL,Duolingo Inc,10605
+YOU,Clear Secure Inc,10939
+SEZL,Sezzle Inc,11089
+ZETA,Zeta Global Holdings Corp,10919
+OTEX,Open Text Corporation,11046
+BC,Brunswick Corporation,10583
+UEC,Uranium Energy Corp,10941
+MMYT,MakeMyTrip Ltd,11083
+CRSP,Crispr Therapeutics AG,10498
+SYM,Symbotic Inc,11015
+DLB,"Dolby Laboratories, Inc.",10616
+TXG,10X Genomics Inc,10497
+ADT,ADT Inc,10331
+MAIN,Main Street Capital Corporation,10621
+RELY,Remitly Global Inc,10508
+OPEN,Opendoor Technologies Inc,10107
+MARA,Marathon Digital Holdings Inc,10893
+COCO,The Vita Coco Company Inc,11103
+GTLB,Gitlab Inc,10389
+BBWI,Bath & Body Works Inc,10252
+QS,Quantumscape Corp,10205
+EPR,EPR Properties,11096
+EPAM,EPAM Systems Inc,10606
+ACAD,ACADIA Pharmaceuticals Inc.,10448
+PI,Impinj Inc,11101
+RDW,Redwire Corporation,10931
+AXTI,AXT Inc,10930
+ANF,Abercrombie & Fitch Co.,10327
+ACHR,Archer Aviation Inc,10902
+MANU,Manchester United PLC,10530
+LMND,Lemonade Inc,10446
+MNDY,Mondaycom Ltd,10995
+MAT,Mattel Inc,10354
+BTDR,Bitdeer Technologies Group,10961
+SKYW,SkyWest Inc,11167
+LBTYK,Liberty Global Ltd Class C,11104
+LEU,Centrus Energy Corp,11072
+AAP,"Advance Auto Parts, Inc.",10538
+BMI,Badger Meter Inc,11143
+PLUG,Plug Power Inc,10101
+BOX,Box Inc,10459
+TDW,Tidewater Inc,11085
+BILL,Bill.com Holdings Inc,10366
+MNSO,MINISO Group Holding Ltd,11134
+CLSK,CleanSpark Inc,10914
+SMR,Nuscale Power Corporation,10915
+RUN,Sunrun Inc,10952
+AMBA,Ambarella Inc,11100
+PPLI,IAC/Interactivecorp,10584
+SEDG,Solaredge Technologies Inc,10540
+ADPT,Adaptive Biotechnologies Corp,10494
+UPST,Upstart Holdings Inc,10149
+WDFC,WD 40 Company,11195
+AVNT,Avient Corporation,11149
+AWR,American States Water Company,11172
+RSI,Rush Street Interactive Inc,11002
+SBLK,Star Bulk Carriers Corp,11010
+ZIM,ZIM Integrated Shipping Services Ltd,11011
+ELF,e l f Beauty Inc,11013
+FIZZ,National Beverage Corp.,10646
+SOUN,SoundHound AI Inc,10903
+AGYS,Agilysys Inc,11141
+FRSH,Freshworks Inc,10371
+TRMD,TORM plc,11078
+FSLY,Fastly Inc,10254
+EXK,Endeavour Silver Corp,10938
+KC,Kingsoft Cloud Holdings Limited,11048
+WK,Workiva Inc,11035
+UAA,Under Armour Inc Class A,10196
+UA,Under Armour Inc Class A,11023
+LCID,Lucid Group Inc,10114
+HOG,Harley-Davidson Inc,10475
+ACHC,Acadia Healthcare Company Inc,10929
+HTO,H2O America,11123
+VNET,VNET Group Inc,10949
+PTON,Peloton Interactive Inc,10109
+PAGS,PAGSEG Inc,10973
+WU,Western Union Co,10234
+RLX,RLX Technology Inc,11031
+AXGN,Axogen Inc,11038
+DJT,Trump Media and Technology Group Corp,10988
+KD,Kyndryl Holdings Inc,10306
+LU,Lufax Holding Ltd,11061
+TMDX,TransMedics Group Inc,10989
+PAYO,Payoneer Global Inc,10258
+CPRI,Capri Holdings Ltd,10385
+BRZE,Braze Inc,10610
+INOD,Innodata Inc,11066
+ABCL,AbCellera Biologics Inc,10396
+DAC,Danaos Corporation,11179
+WOLF,Wolfspeed Inc,11036
+XRAY,DENTSPLY SIRONA Inc,10375
+JBLU,JetBlue Airways Corporation,10131
+AEHR,Aehr Test Systems,11008
+FCEL,FuelCell Energy Inc,10111
+ARR,"ARMOUR Residential REIT, Inc.",10300
+KSS,Kohl's Corporation,10217
+SEM,Select Medical Holdings Corporation,11118
+WIX,Wix.Com Ltd,10484
+QUBT,Quantum Computing Inc,10920
+AMLX,Amylx Pharmaceuticals Inc,11108
+RXRX,Recursion Pharmaceuticals Inc,10894
+BBAI,BigBearai Holdings Inc,10907
+WGS,GeneDx Holdings Corp,11102
+BAND,Bandwidth Inc,11158
+ADMA,ADMA Biologics Inc,10976
+EOSE,Eos Energy Enterprises Inc,10925
+MQ,Marqeta Inc,10153
+MESO,Mesoblast Limited,11154
+GT,Goodyear Tire & Rubber Co,10249
+WB,Weibo Corp,10565
+AMSC,American Superconductor Corporation,11070
+FIVN,Five9 Inc,10547
+APPN,Appian Corp,10631
+LTC,LTC Properties Inc,10638
+IIPR,Innovative Industrial Properties Inc,10634
+AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",10045
+FIGS,Figs Inc,10230
+SAM,Boston Beer Company Inc,10647
+TRIP,Tripadvisor Inc Common Stock,10398
+ASAN,Asana Inc.,10239
+LAC,Lithium Americas Corp,10922
+WEN,Wendys Co,10329
+TDOC,Teladoc Health Inc,10244
+COUR,Coursera Inc,10542
+NVAX,Novavax Inc,10057
+AHCO,AdaptHealth Corp,11006
+FMC,FMC Corp,10576
+AGRO,Adecoagro SA,11139
+AI,C3.ai Inc,10369
+ENVX,Enovix Corporation,10948
+GCT,Gigacloud Technology Inc,11107
+HLF,Herbalife Nutrition Ltd,10531
+AMPL,Amplitude Inc,10595
+PSEC,Prospect Capital Corporation,10435
+SANA,Sana Biotechnology Inc,11027
+UPWK,Upwork Inc,10493
+CRON,Cronos Group Inc,10395
+CRSR,Corsair Gaming Inc,10596
+IQ,IQIYI Inc - ADR,10150
+TDUP,ThredUp Inc,10541
+ARKO,Arko Corp.,10633
+AMPH,Amphastar Pharmaceuticals Inc,11148
+JMIA,Jumia Technologies AG - ADR,10292
+OXLC,Oxford Lane Capital Corp,10994
+INMD,InMode Ltd,11088
+SLI,Standard Lithium Ltd,10999
+DNA,Ginkgo Bioworks Holdings Inc,11059
+BTBT,Bit Digital Inc,10912
+PUBM,PubMatic Inc,10590
+NRDS,Nerdwallet Inc,10641
+DNUT,Krispy Kreme Inc,10483
+CLPT,ClearPoint Neuro Inc,11094
+GEMI,Gemini Space Station Inc,11024
+TLRY,Tilray Brands Inc,10790
+OSPN,OneSpan Inc,11150
+VITL,Vital Farms Inc,10997
+ARQQ,Arqit Quantum Inc,11135
+SFIX,Stitch Fix Inc,10264
+EH,EHang Holdings Ltd - ADR,10629
+ASPN,Aspen Aerogels Inc,10936
+TASK,Taskus Inc,10598
+AIV,Apartment Investment and Management Co,10407
+HNST,Honest Company Inc,10465
+CGC,Canopy Growth Corp,10124
+BMBL,Bumble Inc,10350
+BBW,Build A Bear Workshop Inc,11152
+FVRR,Fiverr International Ltd,10588
+BYND,Beyond Meat Inc,10278
+SPCE,"Virgin Galactic Holdings, Inc.",10063
+ABEO,Abeona Therapeutics Inc,11043
+API,Agora Inc,10556
+NEGG,Newegg Commerce Inc,10511
+FNKO,Funko Inc,10551
+OTLY,Oatly Group AB - ADR,10297
+NNDM,Nano Dimension Ltd - ADR,10284
+FUBO,Fubotv Inc,10104
+ATOM,Atomera Incorporated,10990
+TCPC,BlackRock TCP Capital Corp,10789
+EGHT,8x8 Inc,11032
+ANGI,Angi Inc,10464
+KLTR,Kaltura Inc,10637
+ACB,Aurora Cannabis Inc,10783
+EXFY,Expensify Inc,10613
+ONL,Orion Office REIT Inc,10623
+AMWL,American Well Corp,10451
+PLBY,Plby Group Inc,10447
+GPRO,GoPro Inc,10383
+FIRY,Firy Inc.,10169
+BYRN,Byrna Technologies Inc,11137
+VERI,Veritone Inc,11030
+RENT,Rent the Runway Inc,10490
+INO,Inovio Pharmaceuticals Inc,10202
+SLAI,SOLAI Limited,11183
+HRTX,Heron Therapeutics Inc,10977
+GGR,Gogoro Inc,11220
+FLNA,Cassava Sciences Inc,10223
+PRTS,Carparts.Com Inc,10559
+INDO,Indonesia Energy Corporation Limited,11076
+BIRD,Allbirds Inc,10441
+AVAT,Avalanche Treasury Corporation Class A Common Stock,10648
+FLUX,Flux Power Holdings Inc,11130
+CTXR,Citius Pharmaceuticals Inc,11144
+ATER,Aterian Inc,10397
+BNGO,BioNano Genomics Inc,10191
+SMX,SMX Security Matters plc,11062
+ENVB,Enveric Biosciences Inc,11109
+XXII,22nd Century Group Inc,11202
+NUWE,Nuwellis Inc,11198
+QVCAQ,Qurate Retail Inc Series A,10247
+BF.B,Brown-Forman Corporation Class B,10513
+BRK.B,Berkshire Hathaway Inc Class B,10785
+FCNCA,First Citizens BancShares Inc,11173
+TEM,Tempus AI,10928
+ACP,abrdn Income Credit Strategies Fund,10784
+SLV,iShares Silver Trust,10732
+VTV,Vanguard Value Index Fund ETF,10733
+PGX,Invesco Preferred ETF,10734
+VIG,Vanguard Dividend Appreciation Index Fund ETF,10735
+TLT,iShares 20 Plus Year Treasury Bond ETF,10736
+BND,Vanguard Total Bond Market Index Fund ETF,10737
+QQQ,Nasdaq100 ETF,10738
+SMH,VanEck Semiconductor ETF,10739
+IEF,iShares 7-10 Year Treasury Bond ETF,10740
+MBB,iShares MBS ETF,10741
+ICLN,iShares Global Clean Energy ETF,10742
+IGOV,iShares International Treasury Bond ETF,10743
+VNQI,Vanguard Global ex-US Real Estate Index Fd ETF,10744
+SKYY,First Trust Cloud Computing ETF,10745
+VTIP,Vanguard Sht-Term Inflation-Protected Sec Idx ETF,10746
+BNDX,Vanguard Total International Bond Index Fund ETF,10747
+PDBC,Invesco Optimum Yld Dvsfd Cmd Str No K 1 ETF,10748
+CIBR,First Trust NASDAQ Cybersecurity ETF,10749
+BOTZ,Global X Robotics and Artificial Intelligence ETF,10750
+SPY,S&P500 ETF,10751
+DIA,Dow Jones Industrial Average ETF,10752
+XLE,Energy Select Sector SPDR Fund,10753
+XLV,Health Care Select Sector SPDR Fund,10754
+XLF,Financial Select Sector SPDR Fund,10755
+XLP,Consumer Staples Select Sector SPDR Fund,10756
+XLU,Utilities Select Sector SPDR Fund,10757
+XLY,Consumer Discretionary Select Sector SPDR Fund,10758
+XLB,Materials Select Sector SPDR Fund,10759
+IWM,iShares Russell 2000 ETF,10760
+VTI,Vanguard Total Stock Market Index Fund ETF,10761
+LQD,iShares iBoxx $ Inv Grade Corporate Bond ETF,10762
+VGT,Vanguard Information Technology Index Fund ETF,10763
+VNQ,Vanguard Real Estate Index Fund ETF,10764
+FXI,iShares China Large-Cap ETF,10765
+VWO,Vanguard Emerging Markets Stock Index Fund ETF,10766
+USO,United States Oil ETF,10767
+GDX,VanEck Gold Miners ETF,10768
+VYM,Vanguard High Dividend Yield ETF,10769
+DBA,Invesco DB Agriculture Fund,10770
+VEA,Vanguard Tax Managed Fund FTSE Developed Markets ETF,10772
+AOR,iShares Core Growth Allocation ETF,10773
+EIDO,iShares MSCI Indonesia ETF,10774
+ACWI,iShares MSCI ACWI ETF,10775
+HDV,iShares Core High Dividend ETF,10776
+SPLV,Invesco S&P 500 Low Volatility ETF,10777
+SPHD,Invesco S&P 500 High Div Low Volatility ETF,10778
+ARKK,ARK Innovation ETF,10779
+JPIN,JPMorgan Diversified Return International Eqty ETF,10780
+BLOK,Amplify Transformational Data Sharing ETF,10781
+GLD,SPDR Gold Trust,10890
+IBIT,iShares Bitcoin Trust,10891
+TQQQ,ProShares UltraPro QQQ ETF,10892
+TSLL,Direxion Daily TSLA Bull 2X Shares,10895
+SQQQ,ProShares UltraPro Short QQQ ETF,10896
+CONL,GraniteShares 2x Long COIN Daily ETF,10897
+SOXS,Direxion Daily Semiconductor Bear 3X Shares,10898
+BITO,ProShares Bitcoin ETF,10913
+NVDL,GraniteShares 2x Long NVDA Daily ETF,10923
+SGOV,iShares 0 3 Month Treasury Bond ETF,10924
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,10932
+VCIT,Vanguard Intermediate Term Corporate Bond ETF,10933
+VXUS,Vanguard Total International Stock Index Fund ETF,10934
+QYLD,Global X NASDAQ 100 Covered Call ETF,10935
+EWZ,Ishares Msci Brazil ETF,10937
+MSTU,T-Rex 2X Long MSTR Daily Target ETF,10942
+VCSH,Vanguard Short Term Corporate Bond ETF,10953
+JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,10956
+EMB,iShares JPMorgan USD Emerging Markets Bond ETF,10958
+SOXX,iShares Semiconductor ETF,10963
+EWY,iShares MSCI South Korea ETF,10966
+SHY,iShares 1 3 Year Treasury Bond ETF,10968
+SCHD,Schwab US Dividend Equity ETF,10972
+KWEB,KraneShares CSI China Internet ETF,10975
+MCHI,iShares MSCI China ETF,10979
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,10981
+XBI,State Street SPDR S&P Biotech ETF,10982
+XLK,State Street Technology Select Sector SPDR ETF,10985
+QQQM,Invesco NASDAQ 100 ETF,10986
+FNGU,MicroSectors FANG and Innovation 3X Leveraged ETN,10987
+BOIL,ProShares Ultra Bloomberg Natural Gas ETF,10993
+UNG,United States Natural Gas Fund,10996
+XLRE,State Street Real Estate Select Sector SPDR ETF,10998
+KOLD,ProShares UltraShort Bloomberg Natural Gas ETF,11001
+IEI,iShares 3 7 Year Treasury Bond ETF,11003
+IEMG,iShares Core MSCI Emerging Markets ETF,11004
+BUG,Global X Cybersecurity,11005
+MSTZ,T-Rex 2X Inverse MSTR Daily Target ETF,11007
+SCHG,Schwab US Large Cap Growth ETF,11009
+AIQ,Global X Artificial Intelligence & Technology ETF,11016
+BITU,ProShares Ultra Bitcoin ETF,11018
+USIG,iShares Broad USD Investment Grade Corporate Bond,11020
+NVDY,YieldMax NVDA Option Income Strategy ETF,11021
+IEFA,iShares Core MSCI EAFE ETF,11022
+VT,Vanguard Total World Stock Index Fund ETF,11025
+EWT,iShares MSCI Taiwan ETF,11028
+VYMI,Vanguard International High Dividend Yield ETF,11034
+IAU,iShares Gold Trust,11040
+AGQ,ProShares Ultra Silver ETF,11041
+COPX,Global X Copper Miners ETF,11045
+TMF,Direxion Daily 20 Year Treasury Bull 3X Shares,11049
+EWJ,iShares MSCI Japan ETF,11050
+EWH,iShares MSCI Hong Kong ETF,11052
+URA,Global X Uranium ETF,11056
+EWA,iShares MSCI Australia ETF,11060
+YINN,Direxion Daily FTSE China Bull 3x Shares,11069
+XHB,State Street SPDR S&P Homebuilders ETF,11071
+VOO,Vanguard S&P 500 ETF,11074
+QLD,ProShares Ultra QQQ ETF,11077
+GDXJ,VanEck Junior Gold Miners,11081
+SPYI,NEOS S&P 500 High Income ETF,11082
+AGG,iShares Core US Aggregate Bond ETF,11087
+SGOL,ABRDN Physical Gold Shares ETF,11090
+UGL,ProShares Ultra Gold ETF,11092
+JEPI,JPMorgan Equity Premium Income ETF,11097
+IVV,iShares Core S&P 500 ETF,11098
+XRT,State Street PDR S&P Retail ETF,11099
+QQQE,Direxion NASDAQ 100 Equal Weighted Index Shares,11105
+JNK,State Street SPDR Bloomberg High Yield Bond ETF,11106
+MAGS,Roundhill Magnificent Seven ETF,11110
+EWU,iShares MSCI United Kingdom (FTSE),11113
+UPRO,ProShares UltraPro S&P500,11114
+AAAU,Goldman Sachs Physical Gold ETF,11115
+JETS,US Global Jets ETF,11116
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,11121
+INDA,iShares MSCI India ETF,11122
+URNM,Sprott Uranium Miners ETF,11125
+FEPI,Rex Fang & Innovation Equity Premium Income ETF,11126
+TAN,Invesco Solar ETF,11127
+YMAX,YieldMax Universe Fund of Option Income ETFs,11128
+REMX,VanEck Rare Earth/Strategic Metals,11129
+EWC,iShares MSCI Canada (TSX),11132
+PPLT,Abrdn Physical Platinum Shares ETF,11136
+SJNK,State Street SPDR Bloomberg Shrt Trm Hg Yld Bd ETF,11138
+DBC,Invesco DB Commodity Index Tracking Fund,11140
+SPMO,Invesco S&P 500 Momentum ETF,11142
+SHLD,Global X Defense Tech ETF,11146
+JPST,JPMorgan Ultra Short Income ETF,11151
+USD,ProShares Ultra Semiconductors,11155
+BNO,United States Brent Oil Fund LP,11156
+EMLC,VanEck JP Morgan EM Local Currency Bond ETF,11157
+AIPI,REX AI Equity Premium Income ETF,11159
+MSTY,YieldMax MSTR Option Income Strategy ETF,11160
+TIP,iShares TIPS Bond ETF,11161
+EWG,iShares MSCI Germany (DAX),11162
+CLOU,Global X Cloud Computing ETF,11163
+QTEC,First Trust NASDAQ 100 Technology Index Fund,11164
+LIT,Global X Lithium & Battery Tech ETF,11165
+CPER,United States Copper Index Fund,11166
+TLH,iShares 10 20 Year Treasury Bond ETF,11168
+CWEB,Direxion Daily CSI China Internet Bull 2X Shares,11169
+VUG,Vanguard Growth Index Fund ETF,11171
+PALL,abrdn Physical Palladium Shares ETF,11174
+AMZY,YieldMax AMZN Option Income Strategy ETF,11175
+BIL,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,11177
+AVUV,Avantis US Small Cap Value ETF,11178
+AVDV,Avantis International Small Cap Value ETF,11180
+DRIV,Global X Autonomous & Electric Vehicles,11181
+TSLY,YieldMax TSLA Option Income Strategy ETF,11182
+SLVO,Ubs Ag Etracs Silver Shares Covered Call ETN Exp 21 Apr 2033,11184
+DBO,Invesco DB Oil Fund,11185
+QCLN,First Trust NASDAQ Clean Edge Green Energy Idx Fd,11186
+CONY,YieldMax COIN Option Income Strategy ETF,11187
+FLOT,VanEck Australian Floating Rate ETF,11188
+YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,11189
+EWS,iShares MSCI Singapore ETF,11190
+HLAL,Wahed FTSE USA Shariah ETF,11191
+PBW,Invesco WilderHill Clean Energy ETF,11192
+SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,11193
+ARKW,ARK Next Generation Internet ETF,11194
+VNM,VanEck Vietnam ETF,11196
+ROBO,Global X Robo Global Robotics & Automation ETF,11197
+EWQ,iShares MSCI France ETF,11199
+VOOG,Vanguard S&P 500 Growth Index Fund ETF,11200
+EWI,Ishares Msci Italy ETF,11201
+VUSB,Vanguard Ultra Short Bond ETF,11203
+SDIV,Global X SuperDividend ETF,11204
+THD,Ishares Msci Thailand Etf,11205
+MGK,Vanguard Mega Cap Growth ETF,11206
+FLRN,State Street SPDR Bloomberg Invstmt Gr Fltg Rt ETF,11207
+QDTE,Roundhill Innov-100 0DTE Covered Call Strat ETF,11208
+ARKF,ARK Fintech Innovation ETF,11209
+BITQ,Bitwise Crypto Industry Innovators ETF,11210
+USOI,Ubs Ag Etracs Crude Oil Shares Covered Call ETN Exp 24th Apr 2037,11211
+EWP,Ishares Msci Spain ETF,11212
+WEAT,Teucrium Wheat Fund,11213
+IXN,iShares Global Tech ETF,11214
+HACK,Amplify Cybersecurity ETF,11215
+BTCO,Invesco Galaxy Bitcoin ETF,11216
+ARGT,Global X MSCI Argentina ETF,11217
+EZA,iShares MSCI South Africa ETF,11218
+ARKQ,ARK Autonomous Technology & Robotics ETF,11219
+EWM,iShares MSCI Malaysia ETF,11221
+ESPO,VanEck Video Gaming and eSports ETF,11222
+AMDY,YieldMax AMD Option Income Strategy ETF,11223
+ARKG,ARK Genomic Revolution ETF,11224
+RDTE,Roundhill Russell 2000 0DTE Covered Call Strat ETF,11225
+KTEC,KraneShares Hang Seng TECH Index ETF,11226
+GSG,iShares S&P GSCI Commodity-Indexed Trust ETF,11227
+IDRV,iShares Self-Driving EV and Tech,11228
+QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,11229
+NVDW,Roundhill NVDA WeeklyPay ETF,11230
+CORN,Teucrium Corn Fund,11231
+CTEC,Global X CleanTech,11232
+SOYB,Teucrium Soybean Fund,11233
+KARS,KraneShares Electric Vehicles and Future Mobility,11234
+ARKX,ARK Space & Defense Innovation ETF,11235
+ASEA,Global X FTSE Southeast Asia ETF,11236
+XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,11237
+GPTY,YieldMax AI & Tech Portfolio Option Income ETF,11238

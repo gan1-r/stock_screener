@@ -1,0 +1,203 @@
+symbol,name,asset_id
+FCNCA,First Citizens BancShares Inc,11173
+TEM,Tempus AI,10928
+SLV,iShares Silver Trust,10732
+VTV,Vanguard Value Index Fund ETF,10733
+PGX,Invesco Preferred ETF,10734
+VIG,Vanguard Dividend Appreciation Index Fund ETF,10735
+TLT,iShares 20 Plus Year Treasury Bond ETF,10736
+BND,Vanguard Total Bond Market Index Fund ETF,10737
+QQQ,Nasdaq100 ETF,10738
+SMH,VanEck Semiconductor ETF,10739
+IEF,iShares 7-10 Year Treasury Bond ETF,10740
+MBB,iShares MBS ETF,10741
+ICLN,iShares Global Clean Energy ETF,10742
+IGOV,iShares International Treasury Bond ETF,10743
+VNQI,Vanguard Global ex-US Real Estate Index Fd ETF,10744
+SKYY,First Trust Cloud Computing ETF,10745
+VTIP,Vanguard Sht-Term Inflation-Protected Sec Idx ETF,10746
+BNDX,Vanguard Total International Bond Index Fund ETF,10747
+PDBC,Invesco Optimum Yld Dvsfd Cmd Str No K 1 ETF,10748
+CIBR,First Trust NASDAQ Cybersecurity ETF,10749
+BOTZ,Global X Robotics and Artificial Intelligence ETF,10750
+DIA,Dow Jones Industrial Average ETF,10752
+XLP,Consumer Staples Select Sector SPDR Fund,10756
+XLU,Utilities Select Sector SPDR Fund,10757
+XLB,Materials Select Sector SPDR Fund,10759
+VGT,Vanguard Information Technology Index Fund ETF,10763
+VNQ,Vanguard Real Estate Index Fund ETF,10764
+FXI,iShares China Large-Cap ETF,10765
+USO,United States Oil ETF,10767
+GDX,VanEck Gold Miners ETF,10768
+VYM,Vanguard High Dividend Yield ETF,10769
+DBA,Invesco DB Agriculture Fund,10770
+VEA,Vanguard Tax Managed Fund FTSE Developed Markets ETF,10772
+AOR,iShares Core Growth Allocation ETF,10773
+EIDO,iShares MSCI Indonesia ETF,10774
+ACWI,iShares MSCI ACWI ETF,10775
+HDV,iShares Core High Dividend ETF,10776
+SPLV,Invesco S&P 500 Low Volatility ETF,10777
+SPHD,Invesco S&P 500 High Div Low Volatility ETF,10778
+ARKK,ARK Innovation ETF,10779
+JPIN,JPMorgan Diversified Return International Eqty ETF,10780
+BLOK,Amplify Transformational Data Sharing ETF,10781
+GLD,SPDR Gold Trust,10890
+IBIT,iShares Bitcoin Trust,10891
+TQQQ,ProShares UltraPro QQQ ETF,10892
+TSLL,Direxion Daily TSLA Bull 2X Shares,10895
+SQQQ,ProShares UltraPro Short QQQ ETF,10896
+CONL,GraniteShares 2x Long COIN Daily ETF,10897
+SOXS,Direxion Daily Semiconductor Bear 3X Shares,10898
+BITO,ProShares Bitcoin ETF,10913
+NVDL,GraniteShares 2x Long NVDA Daily ETF,10923
+SGOV,iShares 0 3 Month Treasury Bond ETF,10924
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,10932
+VCIT,Vanguard Intermediate Term Corporate Bond ETF,10933
+VXUS,Vanguard Total International Stock Index Fund ETF,10934
+QYLD,Global X NASDAQ 100 Covered Call ETF,10935
+EWZ,Ishares Msci Brazil ETF,10937
+MSTU,T-Rex 2X Long MSTR Daily Target ETF,10942
+VCSH,Vanguard Short Term Corporate Bond ETF,10953
+JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,10956
+EMB,iShares JPMorgan USD Emerging Markets Bond ETF,10958
+SOXX,iShares Semiconductor ETF,10963
+EWY,iShares MSCI South Korea ETF,10966
+SHY,iShares 1 3 Year Treasury Bond ETF,10968
+SCHD,Schwab US Dividend Equity ETF,10972
+KWEB,KraneShares CSI China Internet ETF,10975
+MCHI,iShares MSCI China ETF,10979
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,10981
+XBI,State Street SPDR S&P Biotech ETF,10982
+XLK,State Street Technology Select Sector SPDR ETF,10985
+QQQM,Invesco NASDAQ 100 ETF,10986
+FNGU,MicroSectors FANG and Innovation 3X Leveraged ETN,10987
+BOIL,ProShares Ultra Bloomberg Natural Gas ETF,10993
+UNG,United States Natural Gas Fund,10996
+XLRE,State Street Real Estate Select Sector SPDR ETF,10998
+KOLD,ProShares UltraShort Bloomberg Natural Gas ETF,11001
+IEI,iShares 3 7 Year Treasury Bond ETF,11003
+IEMG,iShares Core MSCI Emerging Markets ETF,11004
+BUG,Global X Cybersecurity,11005
+MSTZ,T-Rex 2X Inverse MSTR Daily Target ETF,11007
+SCHG,Schwab US Large Cap Growth ETF,11009
+AIQ,Global X Artificial Intelligence & Technology ETF,11016
+BITU,ProShares Ultra Bitcoin ETF,11018
+USIG,iShares Broad USD Investment Grade Corporate Bond,11020
+NVDY,YieldMax NVDA Option Income Strategy ETF,11021
+IEFA,iShares Core MSCI EAFE ETF,11022
+VT,Vanguard Total World Stock Index Fund ETF,11025
+EWT,iShares MSCI Taiwan ETF,11028
+VYMI,Vanguard International High Dividend Yield ETF,11034
+IAU,iShares Gold Trust,11040
+AGQ,ProShares Ultra Silver ETF,11041
+COPX,Global X Copper Miners ETF,11045
+TMF,Direxion Daily 20 Year Treasury Bull 3X Shares,11049
+EWJ,iShares MSCI Japan ETF,11050
+EWH,iShares MSCI Hong Kong ETF,11052
+URA,Global X Uranium ETF,11056
+EWA,iShares MSCI Australia ETF,11060
+YINN,Direxion Daily FTSE China Bull 3x Shares,11069
+XHB,State Street SPDR S&P Homebuilders ETF,11071
+VOO,Vanguard S&P 500 ETF,11074
+QLD,ProShares Ultra QQQ ETF,11077
+GDXJ,VanEck Junior Gold Miners,11081
+SPYI,NEOS S&P 500 High Income ETF,11082
+AGG,iShares Core US Aggregate Bond ETF,11087
+SGOL,ABRDN Physical Gold Shares ETF,11090
+UGL,ProShares Ultra Gold ETF,11092
+JEPI,JPMorgan Equity Premium Income ETF,11097
+IVV,iShares Core S&P 500 ETF,11098
+XRT,State Street PDR S&P Retail ETF,11099
+QQQE,Direxion NASDAQ 100 Equal Weighted Index Shares,11105
+JNK,State Street SPDR Bloomberg High Yield Bond ETF,11106
+MAGS,Roundhill Magnificent Seven ETF,11110
+EWU,iShares MSCI United Kingdom (FTSE),11113
+UPRO,ProShares UltraPro S&P500,11114
+AAAU,Goldman Sachs Physical Gold ETF,11115
+JETS,US Global Jets ETF,11116
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,11121
+INDA,iShares MSCI India ETF,11122
+URNM,Sprott Uranium Miners ETF,11125
+FEPI,Rex Fang & Innovation Equity Premium Income ETF,11126
+TAN,Invesco Solar ETF,11127
+YMAX,YieldMax Universe Fund of Option Income ETFs,11128
+REMX,VanEck Rare Earth/Strategic Metals,11129
+EWC,iShares MSCI Canada (TSX),11132
+PPLT,Abrdn Physical Platinum Shares ETF,11136
+SJNK,State Street SPDR Bloomberg Shrt Trm Hg Yld Bd ETF,11138
+DBC,Invesco DB Commodity Index Tracking Fund,11140
+SPMO,Invesco S&P 500 Momentum ETF,11142
+SHLD,Global X Defense Tech ETF,11146
+JPST,JPMorgan Ultra Short Income ETF,11151
+USD,ProShares Ultra Semiconductors,11155
+BNO,United States Brent Oil Fund LP,11156
+EMLC,VanEck JP Morgan EM Local Currency Bond ETF,11157
+AIPI,REX AI Equity Premium Income ETF,11159
+MSTY,YieldMax MSTR Option Income Strategy ETF,11160
+TIP,iShares TIPS Bond ETF,11161
+EWG,iShares MSCI Germany (DAX),11162
+CLOU,Global X Cloud Computing ETF,11163
+QTEC,First Trust NASDAQ 100 Technology Index Fund,11164
+LIT,Global X Lithium & Battery Tech ETF,11165
+CPER,United States Copper Index Fund,11166
+TLH,iShares 10 20 Year Treasury Bond ETF,11168
+CWEB,Direxion Daily CSI China Internet Bull 2X Shares,11169
+VUG,Vanguard Growth Index Fund ETF,11171
+PALL,abrdn Physical Palladium Shares ETF,11174
+AMZY,YieldMax AMZN Option Income Strategy ETF,11175
+BIL,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,11177
+AVUV,Avantis US Small Cap Value ETF,11178
+AVDV,Avantis International Small Cap Value ETF,11180
+DRIV,Global X Autonomous & Electric Vehicles,11181
+TSLY,YieldMax TSLA Option Income Strategy ETF,11182
+SLVO,Ubs Ag Etracs Silver Shares Covered Call ETN Exp 21 Apr 2033,11184
+DBO,Invesco DB Oil Fund,11185
+QCLN,First Trust NASDAQ Clean Edge Green Energy Idx Fd,11186
+CONY,YieldMax COIN Option Income Strategy ETF,11187
+FLOT,VanEck Australian Floating Rate ETF,11188
+YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,11189
+EWS,iShares MSCI Singapore ETF,11190
+HLAL,Wahed FTSE USA Shariah ETF,11191
+PBW,Invesco WilderHill Clean Energy ETF,11192
+SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,11193
+ARKW,ARK Next Generation Internet ETF,11194
+VNM,VanEck Vietnam ETF,11196
+ROBO,Global X Robo Global Robotics & Automation ETF,11197
+EWQ,iShares MSCI France ETF,11199
+VOOG,Vanguard S&P 500 Growth Index Fund ETF,11200
+EWI,Ishares Msci Italy ETF,11201
+VUSB,Vanguard Ultra Short Bond ETF,11203
+SDIV,Global X SuperDividend ETF,11204
+THD,Ishares Msci Thailand Etf,11205
+MGK,Vanguard Mega Cap Growth ETF,11206
+FLRN,State Street SPDR Bloomberg Invstmt Gr Fltg Rt ETF,11207
+QDTE,Roundhill Innov-100 0DTE Covered Call Strat ETF,11208
+ARKF,ARK Fintech Innovation ETF,11209
+BITQ,Bitwise Crypto Industry Innovators ETF,11210
+USOI,Ubs Ag Etracs Crude Oil Shares Covered Call ETN Exp 24th Apr 2037,11211
+EWP,Ishares Msci Spain ETF,11212
+WEAT,Teucrium Wheat Fund,11213
+IXN,iShares Global Tech ETF,11214
+HACK,Amplify Cybersecurity ETF,11215
+BTCO,Invesco Galaxy Bitcoin ETF,11216
+ARGT,Global X MSCI Argentina ETF,11217
+EZA,iShares MSCI South Africa ETF,11218
+ARKQ,ARK Autonomous Technology & Robotics ETF,11219
+EWM,iShares MSCI Malaysia ETF,11221
+ESPO,VanEck Video Gaming and eSports ETF,11222
+AMDY,YieldMax AMD Option Income Strategy ETF,11223
+ARKG,ARK Genomic Revolution ETF,11224
+RDTE,Roundhill Russell 2000 0DTE Covered Call Strat ETF,11225
+KTEC,KraneShares Hang Seng TECH Index ETF,11226
+GSG,iShares S&P GSCI Commodity-Indexed Trust ETF,11227
+IDRV,iShares Self-Driving EV and Tech,11228
+QDTY,YieldMax Nasdaq 100 0DTE Covered Call Strategy ETF,11229
+NVDW,Roundhill NVDA WeeklyPay ETF,11230
+CORN,Teucrium Corn Fund,11231
+CTEC,Global X CleanTech,11232
+SOYB,Teucrium Soybean Fund,11233
+KARS,KraneShares Electric Vehicles and Future Mobility,11234
+ARKX,ARK Space & Defense Innovation ETF,11235
+ASEA,Global X FTSE Southeast Asia ETF,11236
+XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,11237
+GPTY,YieldMax AI & Tech Portfolio Option Income ETF,11238

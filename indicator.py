@@ -155,13 +155,16 @@ def ut_bot(df, key_value=1, atr_period=10):
     return df
 
 
-def applied_utbot(df, ticker, key_value=1, atr_period=10, ma1_method="SMA", ma1_price="high", ma1_period=20, ma2_method="SMA", ma2_price="low", ma2_period=20):
-    df_ticker = df[df["Ticker"] == ticker].drop(columns=["Ticker"]).sort_index()
+def applied_utbot(df, ticker, key_value=1, atr_period=10, ma1_method="SMA", 
+                    ma1_price="high", ma1_period=20, ma2_method="SMA", 
+                    ma2_price="low", ma2_period=20, filter_utbot=False):
+
+    df_ticker = df[df["Ticker"] == ticker].sort_index()
     df_ticker = df_ticker.dropna(subset=["Close"])
 
     if df_ticker.empty:
         print(f"{ticker}: dilewati, tidak ada data setelah cleaning.")
-        return False
+        return pd.DataFrame()  # return empty dataframe
 
     df_ticker = ut_bot(df_ticker, key_value=key_value, atr_period=atr_period)
     df_ticker["MA1"] = get_ma(df_ticker, ma1_method, ma1_price, ma1_period)
@@ -174,4 +177,12 @@ def applied_utbot(df, ticker, key_value=1, atr_period=10, ma1_method="SMA", ma1_
     last_signal = "BUY" if df_ticker["Buy"].iloc[-1] else "SELL" if df_ticker["Sell"].iloc[-1] else "-"
     print(f"{ticker}: {n_buy} buy signal, {n_sell} sell signal | sinyal candle terakhir: {last_signal}")
 
-    return df_ticker
+    df_ticker = df_ticker.reset_index()  # pindahkan index Date ke kolom biasa
+    
+    if filter_utbot:
+        if last_signal == "BUY":
+            return df_ticker
+        else:
+            return pd.DataFrame()  # return empty dataframe
+    else:
+        return df_ticker

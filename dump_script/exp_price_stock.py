@@ -203,6 +203,7 @@ if RESAMPLE_WEEKLY:
     # untuk ticker tertentu, hasil agregasi jadi NaN semua)
     long_df = long_df.dropna(subset=["Open", "High", "Low", "Close"], how="all")
 
+print(long_df.head())
 
 # ============================================================
 # 5. TERAPKAN UT BOT + MA PER TICKER

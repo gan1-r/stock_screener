@@ -33,7 +33,7 @@ def get_candlestick_chart(ticker, interval="1d", period="6mo"):
 
 tickers = ["AAPL", "MSFT", "GOOGL", "TSLA"]
 df = get_candlestick_chart(tickers, interval="1wk", period="6mo")
-df = df[df['Ticker'] == 'GOOGL']
-print(df)
+df = df[df['Ticker'] == 'AAPL']
 df_candle = df.set_index("Date")[["Open", "High", "Low", "Close", "Volume"]]
-mpf.plot(df_candle, type="candle", volume=True, style="yahoo", title="GOOGL Weekly Candlestick")
+print(df_candle)
+# mpf.plot(df_candle, type="candle", volume=True, style="yahoo", title="GOOGL Weekly Candlestick")

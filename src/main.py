@@ -32,7 +32,7 @@ for ticker in TICKERS:
     results = pd.concat([results, _df_utbot])
 
 # results = results.reset_index()  # pindahkan index Date ke kolom biasa
-# results.to_csv(f"data/results_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.csv", index=False)
+# results.to_csv(f"../data/results/results_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.csv", index=False)
 # ============================================================
 # 6. PLOT PER TICKER (candlestick + MA + marker buy/sell)
 # ============================================================

@@ -69,5 +69,5 @@ def get_chart_image(df_ticker, ticker):
         volume=True,
         title=f"{ticker} - UT Bot MA",
         figsize=(14, 8),
-        savefig=f"image/ut_bot_{ticker}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.png"
+        savefig=f"../images/ut_bot_{ticker}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.png"
     )

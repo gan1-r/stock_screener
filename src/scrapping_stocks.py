@@ -62,4 +62,4 @@ while True:
     if count == 100:
         break
 
-all_stock.to_csv('data/all_stock.csv', index=False)
+all_stock.to_csv('../data/raw/all_stock.csv', index=False)

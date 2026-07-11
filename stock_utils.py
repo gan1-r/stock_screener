@@ -2,6 +2,7 @@ import yfinance as yf
 import mplfinance as mpf
 from datetime import datetime
 import numpy as np
+import os
 
 
 def get_candlestick_chart(ticker, interval="1d", period="6mo", resample_weekly=False):
@@ -29,7 +30,7 @@ def get_candlestick_chart(ticker, interval="1d", period="6mo", resample_weekly=F
     return long_df
 
 
-def get_chart_image(df_ticker, ticker):
+def get_chart_image(df_ticker, ticker, folder='default'):
 
     if df_ticker.empty or len(df_ticker) < 2:
         print(f"{ticker}: dilewati saat plotting, data terlalu sedikit.")
@@ -61,6 +62,8 @@ def get_chart_image(df_ticker, ticker):
     if not np.all(np.isnan(sell_marker)):
         apds.append(mpf.make_addplot(sell_marker, type="scatter", markersize=80, marker="v", color="red"))
 
+    os.makedirs(f"image/{folder}", exist_ok=True)
+
     mpf.plot(
         df_ticker,
         type="candle",
@@ -69,5 +72,5 @@ def get_chart_image(df_ticker, ticker):
         volume=True,
         title=f"{ticker} - UT Bot MA",
         figsize=(14, 8),
-        savefig=f"image/ut_bot_{ticker}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.png"
+        savefig=f"image/{folder}/ut_bot_{ticker}_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.png"
     )

@@ -6,9 +6,9 @@ import pandas as pd
 from datetime import datetime
 
 
-# df_all_stock = pd.read_csv("data/all_stock.csv")
+df_all_stock = pd.read_csv("data/all_stock.csv")
 
-TICKERS = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA']  # contoh ticker, bisa diganti sesuai kebutuhan
+TICKERS = df_all_stock['symbol'].to_list()  # contoh ticker, bisa diganti sesuai kebutuhan
 PERIOD = "5y"
 INTERVAL = "1d"          # ambil harian dulu, resample manual kalau perlu mingguan
 RESAMPLE_WEEKLY = True   # set True kalau mau agregasi ke mingguan (W-FRI)
@@ -28,7 +28,7 @@ for ticker in TICKERS:
     _df_utbot = ind.applied_utbot(df, ticker, key_value=KEY_VALUE, atr_period=ATR_PERIOD, 
                                   ma1_method=MA1_METHOD, ma1_price=MA1_PRICE, ma1_period=MA1_PERIOD, 
                                   ma2_method=MA2_METHOD, ma2_price=MA2_PRICE, ma2_period=MA2_PERIOD,
-                                  filter_utbot=False)
+                                  filter_utbot=True)
     results = pd.concat([results, _df_utbot])
 
 # results = results.reset_index()  # pindahkan index Date ke kolom biasa
@@ -40,4 +40,4 @@ for ticker in TICKERS:
 for ticker in results['Ticker'].unique():
     _df_ticker = results[results['Ticker'] == ticker]
     _df_ticker = _df_ticker.set_index("Date")  # pindahkan kolom Date ke index, karena mplfinance expect index sebagai datetime
-    sp.get_chart_image(_df_ticker, ticker)
+    sp.get_chart_image(_df_ticker, ticker, folder="20260711")

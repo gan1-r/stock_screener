@@ -40,4 +40,4 @@ for ticker in TICKERS:
 for ticker in results['Ticker'].unique():
     _df_ticker = results[results['Ticker'] == ticker]
     _df_ticker = _df_ticker.set_index("Date")  # pindahkan kolom Date ke index, karena mplfinance expect index sebagai datetime
-    sp.get_chart_image(_df_ticker, ticker, folder="20260711")
+    sp.get_chart_image(_df_ticker, ticker, folder="20260815")

@@ -46,12 +46,12 @@ def get_chart_image(df_ticker, ticker, folder='default'):
     if df_ticker["MA1"].notna().any():
         apds.append(mpf.make_addplot(df_ticker["MA1"], color="blue", width=1.2))
     else:
-        print(f"{ticker}: MA1 dilewati (semua NaN, periode {MA1_PERIOD} > jumlah baris {len(df_ticker)}).")
+        print(f"{ticker}: MA1 dilewati (semua NaN, periode > jumlah baris {len(df_ticker)}).")
 
     if df_ticker["MA2"].notna().any():
         apds.append(mpf.make_addplot(df_ticker["MA2"], color="orange", width=1.2))
     else:
-        print(f"{ticker}: MA2 dilewati (semua NaN, periode {MA2_PERIOD} > jumlah baris {len(df_ticker)}).")
+        print(f"{ticker}: MA2 dilewati (semua NaN, periode > jumlah baris {len(df_ticker)}).")
 
     if df_ticker["ATR_Stop"].notna().any():
         apds.append(mpf.make_addplot(df_ticker["ATR_Stop"], color="gray", width=1.0, linestyle="dotted"))

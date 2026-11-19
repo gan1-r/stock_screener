@@ -333,6 +333,9 @@ def scan(
         if delay_seconds:
             time.sleep(delay_seconds)
     summary_path = run_dir / "scan_results.csv"
+    # Filter: when --only-buy is set, only keep rows with Buy_Signal=True
+    if only_buy:
+        summaries = [s for s in summaries if s.get("Buy_Signal", False)]
     pd.DataFrame(summaries).to_csv(summary_path, index=False)
     (run_dir / "config.json").write_text(pd.Series({**asdict(config), "period": period}).to_json(indent=2), encoding="utf-8")
     return run_dir
@@ -351,7 +354,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--signal-candle", choices=["current", "h-1"], default="current", help="candle yang dipakai untuk status sinyal")
     parser.add_argument("--batch-size", type=int, default=50)
     parser.add_argument("--delay", type=float, default=0.0, help="delay antar batch dalam detik")
-    parser.add_argument("--only-buy", action="store_true", help="simpan chart hanya jika candle sinyal menghasilkan BUY")
+    parser.add_argument("--only-buy", action="store_true", default=True, help="simpan chart hanya jika candle sinyal menghasilkan BUY (default: True)")
     parser.add_argument("--verbose", action="store_true")
     return parser
 

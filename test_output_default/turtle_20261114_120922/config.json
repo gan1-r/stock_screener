@@ -1,0 +1,9 @@
+{
+  "timeframe":"daily",
+  "entry_period":20,
+  "exit_period":10,
+  "atr_period":20,
+  "atr_stop_multiple":2.0,
+  "signal_candle":"current",
+  "period":"2y"
+}

@@ -9,7 +9,7 @@ from datetime import datetime
 df_all_stock = pd.read_csv("data/all_stock.csv")
 
 TICKERS = df_all_stock['symbol'].to_list()  # contoh ticker, bisa diganti sesuai kebutuhan
-PERIOD = "5y"
+PERIOD = "2y"
 INTERVAL = "1d"          # ambil harian dulu, resample manual kalau perlu mingguan
 RESAMPLE_WEEKLY = True   # set True kalau mau agregasi ke mingguan (W-FRI)
 

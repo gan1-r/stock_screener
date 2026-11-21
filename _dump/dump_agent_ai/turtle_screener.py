@@ -286,7 +286,7 @@ def scan(
         raise ValueError("Tidak ada symbol pada file input")
     run_id = datetime.now().strftime("turtle_%Y%m%d_%H%M%S")
     run_dir = Path(output_root) / run_id
-    run_dir.mkdir(parents=True, exist_ok=False)
+    run_dir.mkdir(parents=True, exist_ok=True)
     summaries: list[dict[str, object]] = []
     for start in range(0, len(symbols), batch_size):
         batch = symbols[start : start + batch_size]

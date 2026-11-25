@@ -36,8 +36,16 @@ for ticker in TICKERS:
 # ============================================================
 # 6. PLOT PER TICKER (candlestick + MA + marker buy/sell)
 # ============================================================
+folder = '20261121'
+
 for ticker in results['Ticker'].unique():
     _df_ticker = results[results['Ticker'] == ticker]
     _df_ticker = _df_ticker.set_index("Date")  # pindahkan kolom Date ke index, karena mplfinance expect index sebagai datetime
     # sp.get_chart_image(_df_ticker, ticker, folder="20261108")
-    sp.get_chart_image_turtle(_df_ticker, ticker, folder='20261121')
+    sp.get_chart_image_turtle(_df_ticker, ticker, folder=folder)
+
+pd.Series(results['Ticker'].unique()).to_csv(
+    f'image/{folder}/tickers.txt', 
+    index=False, 
+    header=False  # Ubah ke True jika ingin menyertakan nama kolom 'Ticker' di baris pertama
+)
